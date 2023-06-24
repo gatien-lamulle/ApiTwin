@@ -1,0 +1,11 @@
+{
+  "name": "apitwin",
+  "version": "1.0.0",
+  "description": "A request analyser gui with mitmproxy with tools to generate code to reproduce requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gatien Lamulle",
+  "license": "ISC"
+}
